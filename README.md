@@ -15,7 +15,7 @@
   
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=yashka072&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
   
   <h1>
   
@@ -72,8 +72,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashka072&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WNS-Team&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashka072&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WNS-Team&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

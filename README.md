@@ -79,11 +79,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WNS-Team&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-
+<h3 align="center">I am a programmer from Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wns-team&label=Profile%20views&color=0e75b6&style=flat" alt="wns-team" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wns-team" alt="wns-team" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
+
+- 📫 How to reach me **alex.danielov.work@gmail.com**
+
+- ⚡ Fun fact **the best training for me is self-development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -96,7 +102,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wns-team&show_icons=true&locale=en&layout=compact" alt="wns-team" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wns-team&show_icons=true&locale=en" alt="wns-team" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wns-team&" alt="wns-team" /></p>
 
 

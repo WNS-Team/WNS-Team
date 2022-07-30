@@ -106,10 +106,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I am a programmer from Russia.</h3>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -129,6 +128,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me **alex.danielov.work@gmail.com**
 
 - ⚡ Fun fact **the best training for me is self-development**
+
+- 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L]([https://wns-team.github.io/](https://ctftime.org/team/151934/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

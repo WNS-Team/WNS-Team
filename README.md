@@ -116,4 +116,12 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wns-team&show_icons=true&locale=en" alt="wns-team" /></p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/WNS-Team) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wns-team.github.io/)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WNS-Team)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WNS-Team)  
+
+
 

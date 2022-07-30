@@ -117,12 +117,6 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
----
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wns-team" alt="wns-team" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
 
 - 📫 How to reach me **alex.danielov.work@gmail.com**
@@ -130,6 +124,13 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - ⚡ Fun fact **the best training for me is self-development**
 
 - 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L](https://ctftime.org/team/151934/)
+---
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wns-team" alt="wns-team" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

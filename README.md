@@ -58,10 +58,7 @@
 
 
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WNS-Team&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -93,9 +90,11 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - ⚡ Fun fact **the best training for me is self-development**
 
 - 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L](https://ctftime.org/team/151934/)
+
 ---
 
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WNS-Team&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wns-team" alt="wns-team" /></a> </p>
 
@@ -116,12 +115,9 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wns-team&show_icons=true&locale=en" alt="wns-team" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/WNS-Team) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wns-team.github.io/)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WNS-Team)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WNS-Team)  
 
 
 

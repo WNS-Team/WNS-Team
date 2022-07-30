@@ -129,7 +129,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - ⚡ Fun fact **the best training for me is self-development**
 
-- 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L]([https://wns-team.github.io/](https://ctftime.org/team/151934/)
+- 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L](https://ctftime.org/team/151934/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

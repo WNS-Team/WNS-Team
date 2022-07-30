@@ -56,6 +56,13 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wns-team.github.io/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WNS-Team)  
 
+Python  JavaScript  Java  C  C++  R (Statistics)
+React  Node.js  Django  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  RStudio  Eclipse
+Illustrator  Photoshop  InDesign
+
+
 <div id="header" align="right">
   
   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100"/>

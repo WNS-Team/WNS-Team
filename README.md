@@ -112,6 +112,8 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WNS-Team&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=wns-team&show_icons=true&locale=en)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wns-team&show_icons=true&locale=en" alt="wns-team" /></p>
 
 

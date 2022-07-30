@@ -17,12 +17,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-  
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50"/>
-      
-  </h1>
+
   
   <div align="center"> 
     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="300"/>   
@@ -37,9 +32,7 @@
 
 
   
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" height="300"/>  
-  </div>  
+ 
   
 </div>
 
@@ -55,8 +48,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
   
-  <div align="center"> 
+  <div align="left"> 
     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="300"/>   
+  </div>  
+  
+   <div align="right">
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" height="300"/>  
   </div>  
   
 </div>

@@ -37,15 +37,11 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <a href="https://discord.gg/659817872088104970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://github.com/WNS-Team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="659817872088104970" height="30" width="40" /></a>
+  <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100"/>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wns-team.github.io/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WNS-Team)  
-
-
 
 <div id="header" align="right">
-  
-  <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100"/>
+    
 </div>
 
 

@@ -28,7 +28,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - ⚡ Fun fact **the best training for me is self-development**
 
-- 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L](https://ctftime.org/team/151934/)   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100" align="left" 
+- 🔭 In my free time I solve CTF tasks, I am a member of the team [5HM3L](https://ctftime.org/team/151934/)   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100" align="right" 
   vspace="5" hspace="5" />
 
 ---

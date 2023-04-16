@@ -4,12 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
   
   <div align="left"> 
-    <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400" height="300"/>   
+    <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400" height="300"/>
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300"/> 
   </div>  
   
-   <div align="right">
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300"/>  
-  </div>  
+
   
 </div>
 

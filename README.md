@@ -47,7 +47,9 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
         🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
         💡 Develop mitigations (bridging offensive insights with defensive strategies).
 
-        By dissecting threats and probing for weaknesses, I refine my skills in both exploiting and hardening systems—a cycle that fuels growth in cybersecurity.
+        By dissecting threats and probing for weaknesses, 
+        I refine my skills in both exploiting and hardening systems — 
+        a cycle that fuels growth in cybersecurity.
     </details>
     
 {.grid-list}
@@ -93,6 +95,15 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Git" width="40" height="40"/>     
 </div>
+
+### Вкладки{.tabset}
+#### Core Languages
+Содержимое первой вкладки
+#### Web Technologies
+Содержимое второй вкладки
+#### Security Tools
+Содержимое третей вкладки
+
 
 ---
  

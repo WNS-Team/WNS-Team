@@ -14,7 +14,11 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150"> 
+  👋, I'm Alex
+</h1>
 
 ### :man_technologist: About Me :
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 

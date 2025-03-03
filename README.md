@@ -36,12 +36,12 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
 * 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/) and [Hackthebox](https://app.hackthebox.com/profile/813050)
 * ⚡ Fun fact: 
 **My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
-  <details>
-    <summary>   
-
-     *This trifecta sharpens my ability to:*
-
-    </summary>
+<details>
+  <summary>   
+  
+    *This trifecta sharpens my ability to:*
+    
+  </summary>
 
         🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
         🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
@@ -51,7 +51,7 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
         I refine my skills in both exploiting and hardening systems — 
         a cycle that fuels growth in cybersecurity.
 
-  </details>
+</details>
 
 ---
 

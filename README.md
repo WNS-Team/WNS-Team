@@ -36,7 +36,7 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 * 👨‍💻 All of my projects are available at [https://github.com/WNS-Team/](https://github.com/WNS-Team?tab=repositories)
 
-* 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/), [Hackthebox](https://app.hackthebox.com/profile/813050)
+* 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/) and [Hackthebox](https://app.hackthebox.com/profile/813050)
 
 * ⚡ Fun fact: 
 **My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
@@ -56,10 +56,8 @@ By dissecting threats and probing for weaknesses, I refine my skills in both exp
   <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://github.com/WNS-Team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://app.hackthebox.com/profile/813050" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="659817872088104970" height="35" width="35" /></a>
-  <a href="https://discord.gg/659817872088104970" target="blank"><img align="center" src=
-
-* **📬 Contact:**
-  + ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)
+    <p align="center">and</p>
+  ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)
 
 </p>
 

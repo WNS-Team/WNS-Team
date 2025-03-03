@@ -50,11 +50,7 @@ By dissecting threats and probing for weaknesses, I refine my skills in both exp
 
 ---
 
-<h3 align="left">🧾 Connect with me:</h3>
-
-✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)
-or
-
+### 🧾 Connect with me to ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com) or:
 <p align="left">
   <a href="https://discord.gg/659817872088104970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>

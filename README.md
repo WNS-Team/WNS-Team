@@ -25,22 +25,22 @@
 
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💼 **Software Engineer** with web applications expertise  
+* 💼 **Software Engineer** with web applications expertise  
 
-- 📝 Technical writer focusing on Python ecosystem 
+* 📝 Technical writer focusing on Python ecosystem 
 
-- 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
+* 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
 
-- 🗨️ How to reach me **alex.danielov.work@gmail.com**
+* 🗨️ How to reach me **alex.danielov.work@gmail.com**
 
-- ⚡ Fun fact **the best training for me is self-development**
+* ⚡ Fun fact **the best training for me is self-development**
 
-- 🎯 Active CTF player in teams:  
-- [WNS Team](https://ctftime.org/team/165585/) (Founder)
-- [Team8](https://ctftime.org/team/11807/)
-- [5HM3L](https://ctftime.org/team/151934/)
+* 🎯 Active CTF player in teams:  
+  + [WNS Team](https://ctftime.org/team/165585/) (Founder)
+  + [Team8](https://ctftime.org/team/11807/)
+  + [5HM3L](https://ctftime.org/team/151934/)
 
-- 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
+* 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
 
 ---
 

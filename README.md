@@ -31,7 +31,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - 🔭 In my free time I solve CTF tasks, I am a member of the teams: [WNS](https://ctftime.org/team/165585/), [Team8](https://ctftime.org/team/11807/) and [5HM3L](https://ctftime.org/team/151934/)   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100" align="right" 
   vspace="5" hspace="5" />
 
--  My profiles: [Codeby](https://codeby.games/users/WNS)
+- 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
 
 ---
 

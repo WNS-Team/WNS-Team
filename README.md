@@ -4,13 +4,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
   
-  <div align="left"> 
+  <div align="center"> 
     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400" height="300"/>
     <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300"/> 
   </div>  
 </div>
 
 ---
+
+# I'm Alex
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 
@@ -38,29 +40,25 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 * ⚡ Fun fact: 
 **My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
 
-  + This trifecta sharpens my ability to:
+  + <details>
+      <summary>This trifecta sharpens my ability to:</summary>
     - 🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
     - 🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
     - 💡 Develop mitigations (bridging offensive insights with defensive strategies).
+    {.grid-list}
+    </details>
+    
+
 
 By dissecting threats and probing for weaknesses, I refine my skills in both exploiting and hardening systems—a cycle that fuels growth in cybersecurity.
 
----
-
-### 🧾 Connect with me to ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com) or:
-<p align="left">
-  <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>
-  <a href="https://github.com/WNS-Team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="659817872088104970" height="30" width="40" /></a>
-  <a href="https://app.hackthebox.com/profile/813050" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="659817872088104970" height="35" width="35" /></a>
-</p>
-
-<div id="header" align="right">
-    
-</div>
 
 
 ---
 
+### 🧾 Connect with me to [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com) ✉️
+
+---
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 

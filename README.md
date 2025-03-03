@@ -56,9 +56,10 @@ By dissecting threats and probing for weaknesses, I refine my skills in both exp
   <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://github.com/WNS-Team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://app.hackthebox.com/profile/813050" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="659817872088104970" height="35" width="35" /></a>
+</p>
   and ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)
 
-</p>
+
 
 <div id="header" align="right">
     

@@ -39,7 +39,7 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
 <details>
   <summary>   
   
-    *This trifecta sharpens my ability to:*
+  #### *This trifecta sharpens my ability to:*
     
   </summary>
 

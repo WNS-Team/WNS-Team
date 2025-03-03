@@ -31,14 +31,16 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 * 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
 
-* 🗨️ How to reach me **alex.danielov.work@gmail.com**
-
 * ⚡ Fun fact **the best training for me is self-development**
 
 * 🎯 Active CTF player in teams:  
-  + [WNS Team](https://ctftime.org/team/165585/) (Founder)
+  + [WNS](https://ctftime.org/team/165585/) (Founder)
   + [Team8](https://ctftime.org/team/11807/)
   + [5HM3L](https://ctftime.org/team/151934/)
+
+* **📬 Contact:**
+✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)  
+🌐 [Portfolio](https://wns-team.github.io/) 
 
 * 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
 

@@ -20,10 +20,11 @@
 
 <h3 align="center">🔧 Full-Stack Developer | 🛡️ CTF Enthusiast | 🐍 Python Advocate</h3>
 
-<img align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="120" height="120">
+
 
 ---
 ### :man_technologist: About Me :
+<img align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="120" height="120">
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 💼 **Software Engineer** with web applications expertise  
 

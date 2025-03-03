@@ -61,55 +61,55 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 ### 🛠️ Tech Stack
 
-#### Core Languages
+<details>
+  <summary> 
 
-<div align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
-</div>
+  #### Core Languages
+  
+  </summary>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
+</details>
 
 <details>
   <summary> 
 
-  ### Web Technologies 
-  
+  #### Web Technologies 
+
   </summary>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="django" width="40" height="40"/>
 </details>
 
+<details>
+  <summary> 
 
-<div align="left"> 
+  #### Security Tools
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="django" width="40" height="40"/>
-</div>
+  </summary>
 
+</details>
 
-#### Security Tools
-<div align="left"> 
+<details>
+  <summary> 
 
-</div>
+  #### Databases
 
-#### Databases
+  </summary>
 
-<div align="left"> 
+</details>
 
-</div>
+<details>
+  <summary> 
 
+  #### Other
 
-#### Other
+  </summary>
 
-<div align="left"> 
-
-</div>
-
-
-
-
+</details>
 
 
 <div align="left"> 

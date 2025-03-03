@@ -34,8 +34,7 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
   + [5HM3L](https://ctftime.org/team/151934/)
 * 👨‍💻 All of my projects are available at [https://github.com/WNS-Team/](https://github.com/WNS-Team?tab=repositories)
 * 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/) and [Hackthebox](https://app.hackthebox.com/profile/813050)
-* ⚡ Fun fact: 
-**My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
+* ⚡ **My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
 <details>
   <summary>   
   

@@ -19,8 +19,6 @@
   I'm Alex
 </h1>
 
----
-<h1 align="center">👋 Hi! I'm Alex</h1>
 <h3 align="center">🔧 Full-Stack Developer | 🛡️ CTF Enthusiast | 🐍 Python Advocate</h3>
 ---
 

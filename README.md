@@ -95,6 +95,7 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
     <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" title="Kali Linux" **alt="kali linux" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=000000" title="Burp Suite" **alt="burp suite" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" title="Metasploit" **alt="metasploit" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" title="Wireshark" **alt="wireshark" width="40" height="40"/>
 </details>
 
 <details>

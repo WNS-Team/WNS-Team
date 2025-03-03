@@ -68,6 +68,7 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
 </div>
 
 
@@ -84,14 +85,30 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 </div>
 
-<div align="left"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" **alt="Git" width="40" height="40"/>
+#### Databases
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>  
+<div align="left"> 
+
 </div>
 
 
+#### Other
+
+<div align="left"> 
+
+</div>
+
+
+
+
+
+
+<div align="left"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" **alt="Git" width="40" height="40"/>
+
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>  
+</div>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  title="Android" alt="android" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bash" alt="bash" width="40" height="40"/>
@@ -108,8 +125,6 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" **alt="Git" width="40" height="40"/>     
 </div>
-
-
 
 ---
  

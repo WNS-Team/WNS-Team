@@ -37,7 +37,11 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
 * ⚡ Fun fact: 
 **My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
   <details>
-    <summary>This trifecta sharpens my ability to:</summary>
+    <summary>   
+
+     *This trifecta sharpens my ability to:*
+
+    </summary>
 
         🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
         🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),

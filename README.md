@@ -7,11 +7,7 @@
     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400" height="300"/>
     <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300"/> 
   </div>  
-  
-
-  
 </div>
-
 ---
 
 <h1 align="center">
@@ -22,7 +18,6 @@
 <h3 align="center">🔧 Full-Stack Developer | 🛡️ CTF Enthusiast | 🐍 Python Advocate</h3>
 
 ---
-
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 💼 **Software Engineer** with web applications expertise  
@@ -52,15 +47,10 @@ By dissecting threats and probing for weaknesses, I refine my skills in both exp
 
 ### 🧾 Connect with me to ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com) or:
 <p align="left">
-  <a href="https://discord.gg/659817872088104970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://wns-team.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://github.com/WNS-Team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="659817872088104970" height="30" width="40" /></a>
   <a href="https://app.hackthebox.com/profile/813050" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="659817872088104970" height="35" width="35" /></a>
 </p>
-
-
-
-
 
 <div id="header" align="right">
     

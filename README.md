@@ -1,4 +1,5 @@
 <!-- center code math uml theme:white -->
+
 ---
 
 <div align="center">
@@ -26,7 +27,7 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 * 📝 Technical writer focusing on Python 
 
-* 🎯 Active CTF player in teams:  
+* 🎯 In my free time I solve CTF tasks, I am a member of the team:  
   + [WNS](https://ctftime.org/team/165585/) (Founder)
   + [Team8](https://ctftime.org/team/11807/)
   + [5HM3L](https://ctftime.org/team/151934/)
@@ -49,12 +50,6 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
         I refine my skills in both exploiting and hardening systems — 
         a cycle that fuels growth in cybersecurity.
     </details>
-    
-{.grid-list}
-
-
-
-
 
 ---
 

@@ -16,7 +16,7 @@
 
 <h1 align="center">
   Hi 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150"> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"> 
   👋, I'm Alex
 </h1>
 

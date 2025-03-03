@@ -92,8 +92,8 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
   #### Security Tools
     
   </summary>
-    <img src="https://icons8.com/icon/101665/kali-linux" title="Kali Linux" **alt="kali linux" width="40" height="40"/>
-    <img src="https://icons8.com/icon/41078/burp-suite" title="Burp Suite" **alt="burp suite" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" title="Kali Linux" **alt="kali linux" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=000000" title="Burp Suite" **alt="burp suite" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" title="Metasploit" **alt="metasploit" width="40" height="40"/>
 </details>
 

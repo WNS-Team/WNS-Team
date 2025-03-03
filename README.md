@@ -71,10 +71,8 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
 </div>
 
-
-#### Web Technologies
 <details>
-  <summary>Web Technologies</summary>
+  <summary> **Web Technologies** </summary>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="django" width="40" height="40"/>
 </details>

@@ -112,9 +112,10 @@ I am a Russia-based developer passionate about full-stack solutions: <img src="h
   #### Other
 
   </summary>
+    <img src="https://icongr.am/devicon/windows8-original.svg?size=40&color=currentColor" title="Windows" alt="windows" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="visual studio" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bash" alt="bash" width="40" height="40"/>

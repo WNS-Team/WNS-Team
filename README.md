@@ -34,7 +34,7 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   + [Team8](https://ctftime.org/team/11807/)
   + [5HM3L](https://ctftime.org/team/151934/)
 
-* 👨‍💻 All of my projects are available at [https://github.com/WNS-Team/](https://github.com/WNS-Team?tab=repositories/)
+* 👨‍💻 All of my projects are available at [https://github.com/WNS-Team/](https://github.com/WNS-Team?tab=repositories)
 
 * 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/), [Hackthebox](https://app.hackthebox.com/profile/813050)
 

@@ -62,13 +62,12 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 ### 🛠️ Tech Stack
 
 #### Core Languages
+
+<div align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
-
+</div>
 
 
 

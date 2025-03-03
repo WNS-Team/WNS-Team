@@ -27,11 +27,7 @@
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 💼 **Software Engineer** with web applications expertise  
 
-* 📝 Technical writer focusing on Python ecosystem 
-
-* 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
-
-* ⚡ Fun fact **the best training for me is self-development**
+* 📝 Technical writer focusing on Python 
 
 * 🎯 Active CTF player in teams:  
   + [WNS](https://ctftime.org/team/165585/) (Founder)
@@ -39,10 +35,21 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   + [5HM3L](https://ctftime.org/team/151934/)
 
 * **📬 Contact:**
-  + ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)  
-  + 🌐 [Portfolio](https://wns-team.github.io/) 
+  + ✉️ [alex.danielov.work@gmail.com](mailto:alex.danielov.work@gmail.com)
+
+* 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
 
 * 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
+
+* ⚡ Fun fact: 
+**My best training is constant self-improvement through reverse engineering, malware analysis, and vulnerability discovery in software and systems.**
+
+  + This trifecta sharpens my ability to:
+    - 🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
+    - 🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
+    - 💡 Develop mitigations (bridging offensive insights with defensive strategies).
+
+By dissecting threats and probing for weaknesses, I refine my skills in both exploiting and hardening systems—a cycle that fuels growth in cybersecurity.
 
 ---
 

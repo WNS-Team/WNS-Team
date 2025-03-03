@@ -42,15 +42,17 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
   + <details>
       <summary>This trifecta sharpens my ability to:</summary>
-    - 🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
-    - 🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
-    - 💡 Develop mitigations (bridging offensive insights with defensive strategies).
-    {.grid-list}
+
+        🔍 Deconstruct malicious code (understanding attack vectors and payload behavior),
+        🛠️ Identify security flaws (exploring memory corruption, logic errors, and misconfigurations),
+        💡 Develop mitigations (bridging offensive insights with defensive strategies).
+
+        By dissecting threats and probing for weaknesses, I refine my skills in both exploiting and hardening systems—a cycle that fuels growth in cybersecurity.
     </details>
     
+{.grid-list}
 
 
-By dissecting threats and probing for weaknesses, I refine my skills in both exploiting and hardening systems—a cycle that fuels growth in cybersecurity.
 
 
 

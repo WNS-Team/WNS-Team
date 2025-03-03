@@ -25,9 +25,9 @@
 
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 📫 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 💼 **Software Engineer** with web applications expertise  
 
-- 🤖 Exploring Technical Content Writing on Python.
+- 📝 Technical writer focusing on Python ecosystem 
 
 - 👨‍💻 All of my projects are available at [https://wns-team.github.io/](https://wns-team.github.io/)
 
@@ -35,8 +35,10 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 - ⚡ Fun fact **the best training for me is self-development**
 
-- 🔭 In my free time I solve CTF tasks, I am a member of the teams: [WNS](https://ctftime.org/team/165585/), [Team8](https://ctftime.org/team/11807/) and [5HM3L](https://ctftime.org/team/151934/)   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" height="100" align="right" 
-  vspace="5" hspace="5" />
+- 🎯 Active CTF player in teams:  
+- [WNS Team](https://ctftime.org/team/165585/) (Founder)
+- [Team8](https://ctftime.org/team/11807/)
+- [5HM3L](https://ctftime.org/team/151934/)
 
 - 📝 My profiles: [Codeby](https://codeby.games/users/WNS), [Ctftime](https://ctftime.org/team/165585/)
 

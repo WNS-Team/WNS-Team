@@ -1,4 +1,4 @@
-
+<!-- center code math uml theme:white -->
 ---
 
 <div align="center">
@@ -11,8 +11,6 @@
 </div>
 
 ---
-
-# I'm Alex
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 

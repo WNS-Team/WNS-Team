@@ -19,6 +19,10 @@
   I'm Alex
 </h1>
 
+### 🚀 About Me
+
+<img align="right" src="https://lordicon.com/icons/wired/lineal/881-hacker.json" width="120" height="120">
+
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 📫 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.

@@ -3,8 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/>
-  
+  <img src="https://komarev.com/ghpvc/?username=WNS-Team&style=flat-square&color=blue" alt=""/> 
   <div align="center"> 
     <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400" height="300"/>
     <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300"/> 
@@ -14,7 +13,7 @@
 ---
 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> 
   I'm Alex
 </h1>
 
@@ -23,6 +22,7 @@
 <img align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="120" height="120">
 
 ---
+
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 * 💼 **Software Engineer** with web applications expertise  

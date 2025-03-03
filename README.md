@@ -20,6 +20,8 @@
 
 <h3 align="center">🔧 Full-Stack Developer | 🛡️ CTF Enthusiast | 🐍 Python Advocate</h3>
 
+<img align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="120" height="120">
+
 ---
 ### :man_technologist: About Me :
 I am a Russia-based developer passionate about full-stack solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -57,7 +59,9 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+### 🛠️ Tech Stack
+
+#### Core Languages
 
 <div align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -70,10 +74,11 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>  
 </div>
 
+#### Web Technologies
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  title="Android" alt="android" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bash" alt="bash" width="40" height="40"/>
- 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="flask" width="40" height="40"/>
@@ -89,14 +94,7 @@ I am a Russia-based developer passionate about full-stack solutions <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Git" width="40" height="40"/>     
 </div>
 
-### Вкладки{.tabset}
-#### Core Languages
-Содержимое первой вкладки
-#### Web Technologies
-Содержимое второй вкладки
 #### Security Tools
-Содержимое третей вкладки
-
 
 ---
  
